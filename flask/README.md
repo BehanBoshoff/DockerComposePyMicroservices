@@ -1,2 +1,2 @@
 # DockerizedFastAPI
-Dockerized FastAPI Template to build off of.
+A dockerized FastAPI Template to build off of.
